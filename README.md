@@ -8,3 +8,5 @@ We will use that data to our advantage and with the help of labels train our mod
 
 Here we will follow the standard workflow :-
 collection of the data, data-preprocessing, train and testing, then feeding this data to our trained model and see if it predicts correctly. 
+
+If you can't view the file for some reason or it shows some type of error, download the file to view it. 
